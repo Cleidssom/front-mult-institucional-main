@@ -5,8 +5,8 @@ const MainHome: React.FC = () => {
   return (
     <Main>
       <h1>INOVAÇÃO GUIADA POR TECNOLOGIA, FOCADA EM RESULTADOS</h1>
-      <p>Nós oferecemos soluções inovadoras para melhorar a sua empresa.</p>
-      <button className="cta-button">Faça um Orçamento</button>
+      <p>Conquiste a excelência com cada detalhe, nossas peças são a chave para transformar sua visão em realidade.</p>
+      <button className="cta-button">Solicitar Orçamento</button>
     </Main>
   );
 };

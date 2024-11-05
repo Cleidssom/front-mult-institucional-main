@@ -6,7 +6,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
   }
   
   .background-image {
@@ -39,8 +39,8 @@
   
   .cta-button {
     padding: 0.75rem 1.5rem;
-    background-color: #007BFF;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     border: none;
     border-radius: 5px;
     cursor: pointer;
